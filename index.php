@@ -1,0 +1,150 @@
+<?php
+echo "<font color= black face='Calibri'>";
+
+
+echo "Hello World, My Name is Rifki Gaeosta Aji";
+
+echo "<br>";
+echo "<br>";
+
+echo "<B>";
+echo "DATA DIRI";
+echo "<br>";
+echo "<br>";
+
+echo "<table width='560' border='0'>";
+  echo "<tr>";
+    echo "<td width='51'>";
+        echo "&nbsp;";
+        echo "</td>";
+    echo "<td width='227'>";
+        echo "Nama Lengkap";
+        echo "</td>";
+    echo "<td width='8'>";
+        echo ":";
+        echo "</td>";
+    echo "<td width='254'>";
+        echo "Rifi Gaeosta Aji";
+        echo "</td>";
+  echo "</tr>";
+
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+    echo "<td>";
+        echo "Nama Panggilan";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "Aji";
+        echo "</td>";
+  echo "</tr>";
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+       
+    echo "<td>";
+        echo "Tempat, Tanggal Lahir";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "PEMALANG, 10 Januari 1994";
+        echo "</td>";
+  echo "</tr>";
+
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+    echo "<td>";
+        echo "Asal SMP";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "SMPN 2 PEMALANG";
+        echo "</td>";
+  echo "</tr>";
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+       
+    echo "<td>";
+        echo "Alamat";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "Jl. WERKUDARA I NO 52 RT:07 RW : 02 PEMALANG";
+        echo "</td>";
+  echo "</tr>";
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+       
+    echo "<td>";
+        echo "Tinggi/ Berat";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "165/ 60";
+        echo "</td>";
+  echo "</tr>";
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+       
+    echo "<td>";
+        echo "Cita-cita";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "DOKTER";
+        echo "</td>";
+  echo "</tr>";
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+    echo "<td>";
+        echo "Agama";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "ISLAM";
+        echo "</td>";
+  echo "</tr>";
+
+  echo "<tr>";
+    echo "<td>";
+        echo "&nbsp;";
+        echo "</td>";
+    echo "<td>";
+        echo "Hobi";
+        echo "</td>";
+    echo "<td>";
+        echo ":";
+        echo "</td>";
+    echo "<td>";
+        echo "Mancing";
+        echo "</td>";
+  echo "</tr>";
+echo "</table>";
+?>
